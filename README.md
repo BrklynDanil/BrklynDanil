@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with Front-End side of web development
 - 💬 Ask me about what projects I'm working on
 - 📫 How to reach me: ermodanil@gmail.com
-- ⚡ Fun fact: I love steaks: :)
+- ⚡ Fun fact: I love steaks :)
 
 
