@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Front-End side of web development
 - 💬 Ask me about what projects I'm working on
-- 📫 How to reach me: ermodanil@gmail.com or let's connect on LinkedIn: www.linkedin.com/in/ermodanil
+- 📫 How to reach me: ermodanil@gmail.com | LinkedIn: www.linkedin.com/in/ermodanil
 - ⚡ Fun fact: I love steaks :)
 
 
